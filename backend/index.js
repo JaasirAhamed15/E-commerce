@@ -44,7 +44,7 @@ app.use(cors());
 
 // Database connection with MongoDB
 mongoose.connect(
-    "mongodb+srv://JaasirAhamed:Jaasir1524@cluster0.m71ul.mongodb.net/e-commerce",
+    "Add the mongodb url",
     { useNewUrlParser: true, useUnifiedTopology: true } // Add options to avoid warnings
 )
 .then(() => console.log("Connected to MongoDB"))
