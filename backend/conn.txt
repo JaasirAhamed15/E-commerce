@@ -1,0 +1,5 @@
+summa ///mongodb+srv://JaasirAhamed:QwlECkKGhmOI9hXg@cluster0.m71ul.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+
+
+
+mongodb+srv://JaasirAhamed:<db_password>@cluster0.m71ul.mongodb.net/
